@@ -19,12 +19,30 @@ app.use(cors());
 app.use(express.json({ limit: '2mb' }));
 app.use(morgan('dev'));
 
+// Ensure DB connection for serverless
+app.use(async (req, res, next) => {
+  try {
+    await connectDB();
+    next();
+  } catch (err) {
+    res.status(500).json({ error: 'Database connection failed' });
+  }
+});
+
 // Health
 app.get('/health', (_req, res) => {
   res.json({ status: 'ok', app: process.env.APP_NAME || 'Invigilator Allocation System' });
 });
 
 // Routes
+app.use((req, res, next) => {
+  if (req.url.startsWith('/api')) {
+    req.url = req.url.replace('/api', '');
+    if (req.url === '') req.url = '/';
+  }
+  next();
+});
+
 app.use('/auth', authRoutes);
 app.use('/upload', uploadRoutes);
 app.use('/schedule', scheduleRoutes);
@@ -40,13 +58,23 @@ app.get('/', (_req, res) => {
 app.use((req, res) => res.status(404).json({ error: 'Not found' }));
 
 // Start
-(async () => {
-  try {
-    await connectDB();
-    await bootstrapAdmin();
-    app.listen(PORT, () => console.log(`API listening on http://localhost:${PORT}`));
-  } catch (err) {
-    console.error('Failed to start server:', err);
-    process.exit(1);
-  }
-})();
+if (process.env.NODE_ENV !== 'production' || process.env.VERCEL) {
+  // On Vercel or local, we might want to ensure DB is connected
+  // However, Vercel handles serverless functions differently.
+  // For standard Vercel deployment, we export the app.
+}
+
+// Export app for Vercel
+export default app;
+
+if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
+  (async () => {
+    try {
+      await connectDB();
+      await bootstrapAdmin();
+      app.listen(PORT, () => console.log(`API listening on http://localhost:${PORT}`));
+    } catch (err) {
+      console.error('Failed to start server:', err);
+    }
+  })();
+}
