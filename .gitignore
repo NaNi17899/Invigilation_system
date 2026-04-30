@@ -9,5 +9,6 @@ build/
 .vscode/
 .idea/
 scratch/
+.vite/
 debug_exams.js
 scratch_test_db.js
