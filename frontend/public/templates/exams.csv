@@ -1,0 +1,4 @@
+courseCode,courseName,date,slot,classroomCode,neededInvigilators
+MA101,Calculus,2025-11-20,FN,A-101,1
+CS102,Programming,2025-11-20,AN,B-202,2
+ME201,Thermo,2025-11-21,FN,C-303,1

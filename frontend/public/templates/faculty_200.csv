@@ -1,0 +1,201 @@
+name,email,department,designation,maxHoursPerDay,weeklyCap
+Faculty 001,faculty001@example.com,CSE,Assistant Professor,2,10
+Faculty 002,faculty002@example.com,EEE,Associate Professor,2,10
+Faculty 003,faculty003@example.com,ME,Professor,1,8
+Faculty 004,faculty004@example.com,CIVIL,Lecturer,2,10
+Faculty 005,faculty005@example.com,IT,Assistant Professor,2,10
+Faculty 006,faculty006@example.com,CSE,Associate Professor,2,8
+Faculty 007,faculty007@example.com,EEE,Professor,1,6
+Faculty 008,faculty008@example.com,ME,Lecturer,2,10
+Faculty 009,faculty009@example.com,CIVIL,Assistant Professor,2,10
+Faculty 010,faculty010@example.com,IT,Associate Professor,2,8
+Faculty 011,faculty011@example.com,CSE,Professor,1,6
+Faculty 012,faculty012@example.com,EEE,Lecturer,2,10
+Faculty 013,faculty013@example.com,ME,Assistant Professor,2,10
+Faculty 014,faculty014@example.com,CIVIL,Associate Professor,2,8
+Faculty 015,faculty015@example.com,IT,Professor,1,6
+Faculty 016,faculty016@example.com,CSE,Lecturer,2,10
+Faculty 017,faculty017@example.com,EEE,Assistant Professor,2,10
+Faculty 018,faculty018@example.com,ME,Associate Professor,2,8
+Faculty 019,faculty019@example.com,CIVIL,Professor,1,6
+Faculty 020,faculty020@example.com,IT,Lecturer,2,10
+Faculty 021,faculty021@example.com,CSE,Assistant Professor,2,10
+Faculty 022,faculty022@example.com,EEE,Associate Professor,2,8
+Faculty 023,faculty023@example.com,ME,Professor,1,8
+Faculty 024,faculty024@example.com,CIVIL,Lecturer,2,10
+Faculty 025,faculty025@example.com,IT,Assistant Professor,2,10
+Faculty 026,faculty026@example.com,CSE,Associate Professor,2,8
+Faculty 027,faculty027@example.com,EEE,Professor,1,6
+Faculty 028,faculty028@example.com,ME,Lecturer,2,10
+Faculty 029,faculty029@example.com,CIVIL,Assistant Professor,2,10
+Faculty 030,faculty030@example.com,IT,Associate Professor,2,8
+Faculty 031,faculty031@example.com,CSE,Professor,1,6
+Faculty 032,faculty032@example.com,EEE,Lecturer,2,10
+Faculty 033,faculty033@example.com,ME,Assistant Professor,2,10
+Faculty 034,faculty034@example.com,CIVIL,Associate Professor,2,8
+Faculty 035,faculty035@example.com,IT,Professor,1,6
+Faculty 036,faculty036@example.com,CSE,Lecturer,2,10
+Faculty 037,faculty037@example.com,EEE,Assistant Professor,2,10
+Faculty 038,faculty038@example.com,ME,Associate Professor,2,8
+Faculty 039,faculty039@example.com,CIVIL,Professor,1,6
+Faculty 040,faculty040@example.com,IT,Lecturer,2,10
+Faculty 041,faculty041@example.com,CSE,Assistant Professor,2,10
+Faculty 042,faculty042@example.com,EEE,Associate Professor,2,8
+Faculty 043,faculty043@example.com,ME,Professor,1,8
+Faculty 044,faculty044@example.com,CIVIL,Lecturer,2,10
+Faculty 045,faculty045@example.com,IT,Assistant Professor,2,10
+Faculty 046,faculty046@example.com,CSE,Associate Professor,2,8
+Faculty 047,faculty047@example.com,EEE,Professor,1,6
+Faculty 048,faculty048@example.com,ME,Lecturer,2,10
+Faculty 049,faculty049@example.com,CIVIL,Assistant Professor,2,10
+Faculty 050,faculty050@example.com,IT,Associate Professor,2,8
+Faculty 051,faculty051@example.com,CSE,Professor,1,6
+Faculty 052,faculty052@example.com,EEE,Lecturer,2,10
+Faculty 053,faculty053@example.com,ME,Assistant Professor,2,10
+Faculty 054,faculty054@example.com,CIVIL,Associate Professor,2,8
+Faculty 055,faculty055@example.com,IT,Professor,1,6
+Faculty 056,faculty056@example.com,CSE,Lecturer,2,10
+Faculty 057,faculty057@example.com,EEE,Assistant Professor,2,10
+Faculty 058,faculty058@example.com,ME,Associate Professor,2,8
+Faculty 059,faculty059@example.com,CIVIL,Professor,1,6
+Faculty 060,faculty060@example.com,IT,Lecturer,2,10
+Faculty 061,faculty061@example.com,CSE,Assistant Professor,2,10
+Faculty 062,faculty062@example.com,EEE,Associate Professor,2,8
+Faculty 063,faculty063@example.com,ME,Professor,1,8
+Faculty 064,faculty064@example.com,CIVIL,Lecturer,2,10
+Faculty 065,faculty065@example.com,IT,Assistant Professor,2,10
+Faculty 066,faculty066@example.com,CSE,Associate Professor,2,8
+Faculty 067,faculty067@example.com,EEE,Professor,1,6
+Faculty 068,faculty068@example.com,ME,Lecturer,2,10
+Faculty 069,faculty069@example.com,CIVIL,Assistant Professor,2,10
+Faculty 070,faculty070@example.com,IT,Associate Professor,2,8
+Faculty 071,faculty071@example.com,CSE,Professor,1,6
+Faculty 072,faculty072@example.com,EEE,Lecturer,2,10
+Faculty 073,faculty073@example.com,ME,Assistant Professor,2,10
+Faculty 074,faculty074@example.com,CIVIL,Associate Professor,2,8
+Faculty 075,faculty075@example.com,IT,Professor,1,6
+Faculty 076,faculty076@example.com,CSE,Lecturer,2,10
+Faculty 077,faculty077@example.com,EEE,Assistant Professor,2,10
+Faculty 078,faculty078@example.com,ME,Associate Professor,2,8
+Faculty 079,faculty079@example.com,CIVIL,Professor,1,6
+Faculty 080,faculty080@example.com,IT,Lecturer,2,10
+Faculty 081,faculty081@example.com,CSE,Assistant Professor,2,10
+Faculty 082,faculty082@example.com,EEE,Associate Professor,2,8
+Faculty 083,faculty083@example.com,ME,Professor,1,8
+Faculty 084,faculty084@example.com,CIVIL,Lecturer,2,10
+Faculty 085,faculty085@example.com,IT,Assistant Professor,2,10
+Faculty 086,faculty086@example.com,CSE,Associate Professor,2,8
+Faculty 087,faculty087@example.com,EEE,Professor,1,6
+Faculty 088,faculty088@example.com,ME,Lecturer,2,10
+Faculty 089,faculty089@example.com,CIVIL,Assistant Professor,2,10
+Faculty 090,faculty090@example.com,IT,Associate Professor,2,8
+Faculty 091,faculty091@example.com,CSE,Professor,1,6
+Faculty 092,faculty092@example.com,EEE,Lecturer,2,10
+Faculty 093,faculty093@example.com,ME,Assistant Professor,2,10
+Faculty 094,faculty094@example.com,CIVIL,Associate Professor,2,8
+Faculty 095,faculty095@example.com,IT,Professor,1,6
+Faculty 096,faculty096@example.com,CSE,Lecturer,2,10
+Faculty 097,faculty097@example.com,EEE,Assistant Professor,2,10
+Faculty 098,faculty098@example.com,ME,Associate Professor,2,8
+Faculty 099,faculty099@example.com,CIVIL,Professor,1,6
+Faculty 100,faculty100@example.com,IT,Lecturer,2,10
+Faculty 101,faculty101@example.com,CSE,Assistant Professor,2,10
+Faculty 102,faculty102@example.com,EEE,Associate Professor,2,8
+Faculty 103,faculty103@example.com,ME,Professor,1,8
+Faculty 104,faculty104@example.com,CIVIL,Lecturer,2,10
+Faculty 105,faculty105@example.com,IT,Assistant Professor,2,10
+Faculty 106,faculty106@example.com,CSE,Associate Professor,2,8
+Faculty 107,faculty107@example.com,EEE,Professor,1,6
+Faculty 108,faculty108@example.com,ME,Lecturer,2,10
+Faculty 109,faculty109@example.com,CIVIL,Assistant Professor,2,10
+Faculty 110,faculty110@example.com,IT,Associate Professor,2,8
+Faculty 111,faculty111@example.com,CSE,Professor,1,6
+Faculty 112,faculty112@example.com,EEE,Lecturer,2,10
+Faculty 113,faculty113@example.com,ME,Assistant Professor,2,10
+Faculty 114,faculty114@example.com,CIVIL,Associate Professor,2,8
+Faculty 115,faculty115@example.com,IT,Professor,1,6
+Faculty 116,faculty116@example.com,CSE,Lecturer,2,10
+Faculty 117,faculty117@example.com,EEE,Assistant Professor,2,10
+Faculty 118,faculty118@example.com,ME,Associate Professor,2,8
+Faculty 119,faculty119@example.com,CIVIL,Professor,1,6
+Faculty 120,faculty120@example.com,IT,Lecturer,2,10
+Faculty 121,faculty121@example.com,CSE,Assistant Professor,2,10
+Faculty 122,faculty122@example.com,EEE,Associate Professor,2,8
+Faculty 123,faculty123@example.com,ME,Professor,1,8
+Faculty 124,faculty124@example.com,CIVIL,Lecturer,2,10
+Faculty 125,faculty125@example.com,IT,Assistant Professor,2,10
+Faculty 126,faculty126@example.com,CSE,Associate Professor,2,8
+Faculty 127,faculty127@example.com,EEE,Professor,1,6
+Faculty 128,faculty128@example.com,ME,Lecturer,2,10
+Faculty 129,faculty129@example.com,CIVIL,Assistant Professor,2,10
+Faculty 130,faculty130@example.com,IT,Associate Professor,2,8
+Faculty 131,faculty131@example.com,CSE,Professor,1,6
+Faculty 132,faculty132@example.com,EEE,Lecturer,2,10
+Faculty 133,faculty133@example.com,ME,Assistant Professor,2,10
+Faculty 134,faculty134@example.com,CIVIL,Associate Professor,2,8
+Faculty 135,faculty135@example.com,IT,Professor,1,6
+Faculty 136,faculty136@example.com,CSE,Lecturer,2,10
+Faculty 137,faculty137@example.com,EEE,Assistant Professor,2,10
+Faculty 138,faculty138@example.com,ME,Associate Professor,2,8
+Faculty 139,faculty139@example.com,CIVIL,Professor,1,6
+Faculty 140,faculty140@example.com,IT,Lecturer,2,10
+Faculty 141,faculty141@example.com,CSE,Assistant Professor,2,10
+Faculty 142,faculty142@example.com,EEE,Associate Professor,2,8
+Faculty 143,faculty143@example.com,ME,Professor,1,8
+Faculty 144,faculty144@example.com,CIVIL,Lecturer,2,10
+Faculty 145,faculty145@example.com,IT,Assistant Professor,2,10
+Faculty 146,faculty146@example.com,CSE,Associate Professor,2,8
+Faculty 147,faculty147@example.com,EEE,Professor,1,6
+Faculty 148,faculty148@example.com,ME,Lecturer,2,10
+Faculty 149,faculty149@example.com,CIVIL,Assistant Professor,2,10
+Faculty 150,faculty150@example.com,IT,Associate Professor,2,8
+Faculty 151,faculty151@example.com,CSE,Professor,1,6
+Faculty 152,faculty152@example.com,EEE,Lecturer,2,10
+Faculty 153,faculty153@example.com,ME,Assistant Professor,2,10
+Faculty 154,faculty154@example.com,CIVIL,Associate Professor,2,8
+Faculty 155,faculty155@example.com,IT,Professor,1,6
+Faculty 156,faculty156@example.com,CSE,Lecturer,2,10
+Faculty 157,faculty157@example.com,EEE,Assistant Professor,2,10
+Faculty 158,faculty158@example.com,ME,Associate Professor,2,8
+Faculty 159,faculty159@example.com,CIVIL,Professor,1,6
+Faculty 160,faculty160@example.com,IT,Lecturer,2,10
+Faculty 161,faculty161@example.com,CSE,Assistant Professor,2,10
+Faculty 162,faculty162@example.com,EEE,Associate Professor,2,8
+Faculty 163,faculty163@example.com,ME,Professor,1,8
+Faculty 164,faculty164@example.com,CIVIL,Lecturer,2,10
+Faculty 165,faculty165@example.com,IT,Assistant Professor,2,10
+Faculty 166,faculty166@example.com,CSE,Associate Professor,2,8
+Faculty 167,faculty167@example.com,EEE,Professor,1,6
+Faculty 168,faculty168@example.com,ME,Lecturer,2,10
+Faculty 169,faculty169@example.com,CIVIL,Assistant Professor,2,10
+Faculty 170,faculty170@example.com,IT,Associate Professor,2,8
+Faculty 171,faculty171@example.com,CSE,Professor,1,6
+Faculty 172,faculty172@example.com,EEE,Lecturer,2,10
+Faculty 173,faculty173@example.com,ME,Assistant Professor,2,10
+Faculty 174,faculty174@example.com,CIVIL,Associate Professor,2,8
+Faculty 175,faculty175@example.com,IT,Professor,1,6
+Faculty 176,faculty176@example.com,CSE,Lecturer,2,10
+Faculty 177,faculty177@example.com,EEE,Assistant Professor,2,10
+Faculty 178,faculty178@example.com,ME,Associate Professor,2,8
+Faculty 179,faculty179@example.com,CIVIL,Professor,1,6
+Faculty 180,faculty180@example.com,IT,Lecturer,2,10
+Faculty 181,faculty181@example.com,CSE,Assistant Professor,2,10
+Faculty 182,faculty182@example.com,EEE,Associate Professor,2,8
+Faculty 183,faculty183@example.com,ME,Professor,1,8
+Faculty 184,faculty184@example.com,CIVIL,Lecturer,2,10
+Faculty 185,faculty185@example.com,IT,Assistant Professor,2,10
+Faculty 186,faculty186@example.com,CSE,Associate Professor,2,8
+Faculty 187,faculty187@example.com,EEE,Professor,1,6
+Faculty 188,faculty188@example.com,ME,Lecturer,2,10
+Faculty 189,faculty189@example.com,CIVIL,Assistant Professor,2,10
+Faculty 190,faculty190@example.com,IT,Associate Professor,2,8
+Faculty 191,faculty191@example.com,CSE,Professor,1,6
+Faculty 192,faculty192@example.com,EEE,Lecturer,2,10
+Faculty 193,faculty193@example.com,ME,Assistant Professor,2,10
+Faculty 194,faculty194@example.com,CIVIL,Associate Professor,2,8
+Faculty 195,faculty195@example.com,IT,Professor,1,6
+Faculty 196,faculty196@example.com,CSE,Lecturer,2,10
+Faculty 197,faculty197@example.com,EEE,Assistant Professor,2,10
+Faculty 198,faculty198@example.com,ME,Associate Professor,2,8
+Faculty 199,faculty199@example.com,CIVIL,Professor,1,6
+Faculty 200,faculty200@example.com,IT,Lecturer,2,10

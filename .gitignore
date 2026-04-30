@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+build/
+*.log
+.DS_Store
+.vscode/
+.idea/
+scratch/
+debug_exams.js
+scratch_test_db.js

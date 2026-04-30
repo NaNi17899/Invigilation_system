@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* Global minimal styles; prefer using Tailwind utility classes in components */
+:root { color-scheme: light; }
+html, body, #root { height: 100%; }

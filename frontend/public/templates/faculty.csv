@@ -1,0 +1,4 @@
+name,email,department,designation,maxHoursPerDay,weeklyCap
+Alice Johnson,alice@example.com,CSE,Assistant Professor,2,10
+Bob Kumar,bob@example.com,EEE,Associate Professor,2,8
+Carol Singh,carol@example.com,ME,Professor,1,6
